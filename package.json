@@ -1,5 +1,5 @@
 {
-  "name": "getintodevops-hellonode",
+  "name": "dockernode",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/hellonode/"
+    "url": "https://github.com/pkumari6/dockernode.git"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "pkumari@devops.com",
   "license": "ISC"
 }
